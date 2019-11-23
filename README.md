@@ -15,6 +15,14 @@ By using this Python Project, you should be able to...
 2) ...
 
 
+## TO DOs:
+- Finalize the comparing of datasets, while cleaning them;
+- Build out analytics from results;
+- Add more datasets (time permitting);
+- Identify areas for improvement / expansion;
+- Finalize README.md and .ipynb files;
+- Prep Final Presentation
+
 ## NoteBook(s)
 
 1. [Final Project](project_proposals/marcel_couturier_project.ipynb)
